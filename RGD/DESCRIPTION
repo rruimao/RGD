@@ -1,0 +1,12 @@
+Package: RGD
+Type: Package
+Title: Randomized Gradient Descent
+Version: 1.0
+Date: 2021-09-22
+Author: Rui Mao
+Maintainer: Rui Mao <rrui.mao@mail.utoronto.ca>
+Description: The adaptive capped least squares method minimizes the sum of the adaptive capped least squares loss using randomized gradient descent algorithm.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.7)
+LinkingTo: Rcpp, RcppArmadillo
+
